@@ -1,0 +1,26 @@
+{
+  "растительность травяная, луговая (разнотравье)": ["raznotrav'e.png"],
+  "растительность травяная влаголюбивая (осока, пушица и др.)": ["rastitel'nost'_vlagolyubivaya.png"],
+  "растительность травяная высокая (высотой более метра)": ["rastitel'nost'_travyanaya_vysokaya.png"],
+  "заросли камышовые и тростниковые": ["kamysh_trostnik.png"],
+  "растительность степная (ковыль, типчак и др.)": ["rastitel'nost'_stepnaya.png"],
+  "растительность лишайниковая (ягель и др.)": ["rastitel'nost'_lishainikovaya.png"],
+  "поверхность моховая": ["poverhnost'_mohovay.png"],
+  "виноградники": ["vinograd.png"],
+  "ягодники": ["yagodniki.png"],
+  "фруктовый сад": ["frukt_sad.png"],
+  "лес высаженный": ["les_vysajennyi.png"],
+  "лес естественный": ["les_estestvennyi.png"],
+  "редколесье": ["redkoles'e.png"],
+  "горелый и сухостойный лес": ["gorelyi_les.png"],
+  "вырубка": ["vyrubka.png"],
+  "лес с буреломом": ["burelom.png"],
+  "отдельные группы кустарников": ["otd_gruppy_kustarnika.png"],
+  "заросли кустарника": ["zarosli_kustarnika.png"],
+  "отдельные группы колючих кустарников": ["otd_gruppy_kolyuch_kustarnika.png"],
+  "заросли колючего кустарника": ["zarosli_kolyuch_kustarnika.png"],
+  "кустарнички (багульник, черника, вереск и др.)": ["kustarnichki.png"],
+  "промышленные отходы": ["prom_othody.png"],
+  "кладбище": ["kladbishche_1.png", "kladbishche_2.png"]
+}
+

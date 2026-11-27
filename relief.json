@@ -1,0 +1,18 @@
+{
+  "обрыв земляной": ["obryv_zemlyanoi.png"],
+  "обрыв скалистый": ["obryv_skalistyi.png"],
+  "горизонталь": ["gorizontal'_1.png", "gorizontal'_2.png"],
+  "отметка высоты над уровнем моря": ["otmetka.png"],
+  "овраги и промоины": ["ovragi_i_promoiny.png"],
+  "пересохшее русло реки или ручья": ["peresohshee_ruslo.png"],
+  "карьер": ["kar'er_1.png", "kar'er_2.png"],
+  "яма": ["yama_1.png", "yama_2.png"],
+  "курганы": ["kurgan_1.png", "kurgan_2.png"],
+  "поверхности песчаные": ["poverhnost'_peschanaya.png"],
+  "поверхности глинистые": ["poverhnost'_glinistaya.png"],
+  "щебёночные и каменистые россыпи": ["schebenochnye_rossypi.png"],
+  "поверхности с валунами": ["poverhnost'_s_valunami.png"],
+  "поверхности бугристые": ["poverhnost'_bugristye.png"],
+  "поверхности кочковатые": ["poverhnost'_kochkovatye.png"]
+}
+

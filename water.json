@@ -1,0 +1,19 @@
+{
+  "источник не оборудованный (родник)": ["istochnik_ne_oborudovannyi.png"],
+  "источник оборудованный": ["istochnik_oborudovannyi.png"],
+  "колодец": ["kolodec.png"],
+  "ручей": ["ruchei.png"],
+  "пересыхающий ручей": ["ruchei_peresoh.png"],
+  "пересохшее русло реки или ручья": ["ruchei_ili_reka_peresoh.png"],
+  "река": ["reka.png"],
+  "река с обрывистым берегом": ["reka_s_obryvistym_beregom.png"],
+  "сухой канал": ["suhoi_kanal.png"],
+  "брод по дну реки": ["brod.png"],
+  "плотина": ["plotina.png"],
+  "мост пешеходный": ["most_peshehodnyi.png"],
+  "паромная переправа": ["parom.png"],
+  "земли заболоченные": ["zemli_zabolochennye.png"],
+  "болото проходимое": ["boloto_prohodimoe.png"],
+  "непроходимое болото": ["boloto_neprohodimoe.png"]
+}
+

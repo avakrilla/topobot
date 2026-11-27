@@ -1,0 +1,35 @@
+# Переменные окружения и секреты
+.env
+.env.*
+!.env.example
+
+# Виртуальные окружения Python
+venv/
+.venv/
+
+# Python cache и compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Тестирование и покрытие
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Логи
+*.log
+logs/
+
+# Резервные копии
+*.bak
+*.old
+*~
+
+# IDE и редакторы
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
